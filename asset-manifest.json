@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mui-custom-breakpoints/static/css/main.e6c13ad2.css",
+    "main.js": "/mui-custom-breakpoints/static/js/main.3a057d3e.js",
+    "static/js/787.37a97433.chunk.js": "/mui-custom-breakpoints/static/js/787.37a97433.chunk.js",
+    "index.html": "/mui-custom-breakpoints/index.html",
+    "main.e6c13ad2.css.map": "/mui-custom-breakpoints/static/css/main.e6c13ad2.css.map",
+    "main.3a057d3e.js.map": "/mui-custom-breakpoints/static/js/main.3a057d3e.js.map",
+    "787.37a97433.chunk.js.map": "/mui-custom-breakpoints/static/js/787.37a97433.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3a057d3e.js"
+  ]
+}
